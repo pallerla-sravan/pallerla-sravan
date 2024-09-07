@@ -8,9 +8,6 @@ I'm a passionate web developer and problem solver currently pursuing a B.Tech at
 
 - Proficient in HTML, CSS, JavaScript, React, Express, MongoDB, SQL, Oracle, C, C++, Java, and Python.
 
-## 🚀 Projects and Contributions
-
-- Creator of a Paytm backend clone to enhance skills in Express, React, and database management.
 
 ## 🔧 What I’m Working On
 
