@@ -2,11 +2,11 @@
 
 
 
-I'm a passionate web developer and problem solver currently pursuing a B.Tech at Anurag University.
+   I'm a passionate web developer and problem solver currently pursuing a B.Tech at Anurag University.
 
-## 💻 Expertise
+💻 Expertise
 
-- Proficient in HTML, CSS, JavaScript, React, Express, MongoDB, SQL, Oracle, C, C++, Java, and Python.
+  - Proficient in HTML, CSS, JavaScript, React, Express, MongoDB, SQL, Oracle, C, C++, Java, and Python.
 
 
 ## 🔧 What I’m Working On
