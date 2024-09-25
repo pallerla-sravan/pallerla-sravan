@@ -1,5 +1,5 @@
 👋 Hi, I'm Sravan, a passionate web developer and problem solver currently pursuing a B.Tech at Anurag University.
-    -I'm a passionate web developer and problem solver currently pursuing a B.Tech at Anurag University.
+  
 
 💻 Expertise
 
@@ -20,7 +20,7 @@
 
 
 
-# 📫 Let's Connect!
+ 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 - [Email](mailto:sravanpallerla1234@example.com)
