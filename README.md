@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sravan, a passionate web developer and problem solver currently pursuing a B.Tech at Anurag University.
+👋 Hi, I'm Sravan, a passionate web developer and problem solver currently pursuing a B.Tech at Anurag University.
 
 
 
